@@ -28,7 +28,7 @@ AI-powered face age detection system using computer vision and machine learning 
 
 **Tech Stack:** Python, OpenCV, AI
 
-🔗 Repo: https://github.com/mahabubhasanmahin/AI-Face-Age-Detection
+🔗 Repo: https://github.com/mahabubhasanmahin/AI_Face_Age_Detection
 
 ---
 
