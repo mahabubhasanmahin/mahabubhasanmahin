@@ -41,23 +41,68 @@
 - IntelliJ IDEA
 
 ---
-
 ## 📌 Featured Projects
 
-### 🍽️ FoodieHub
-Restaurant & food ordering web project.
+### 🛡️ Smart Safety Awareness Network
+A smart safety awareness platform focused on improving public safety, emergency awareness, and communication systems.
+
+**Tech Stack:** Java, Networking
+
+🔗 Repo: https://github.com/mahabubhasanmahin/Smart-Safety-Awareness-Network
+
+---
 
 ### 🤖 AI Face Age Detection
-AI-powered age detection project.
+AI-powered face age detection system using computer vision and machine learning techniques.
 
-### 🌾 Smart Crop Recommendation System
-Agriculture-focused intelligent recommendation platform.
+**Tech Stack:** Python, OpenCV, AI
 
-### 🧠 Algorithm Project
-Algorithm implementations & AI-related concepts.
+🔗 Repo: https://github.com/mahabubhasanmahin/AI-Face-Age-Detection
+
+---
+
+### 🍽️ FoodieHub
+Modern restaurant and food ordering web application with responsive UI and food management features.
+
+**Tech Stack:** HTML, CSS, JavaScript, PHP
+
+🔗 Repo: https://github.com/mahabubhasanmahin/FoodieHub
+
+---
+
+### 🔔 Alert Notification System
+A notification and alert management system designed for real-time communication and event alerts.
+
+**Tech Stack:** Java
+
+🔗 Repo: https://github.com/mahabubhasanmahin/Alert-Notification-System
+
+---
+
+### 📚 E-Learning Quiz Platform
+Java and MySQL based quiz and learning management system for students and educators.
+
+**Tech Stack:** Java, MySQL
+
+🔗 Repo: https://github.com/mahabubhasanmahin/E-Learning-Quiz-Platform-Java-MySQL-
+
+---
 
 ### 💻 Restaurant Management System
-Assembly language based management system.
+Restaurant management software developed using Assembly Language concepts and low-level programming.
+
+**Tech Stack:** Assembly Language
+
+🔗 Repo: https://github.com/mahabubhasanmahin/Restaurant-Management-System-Assembly-
+
+---
+
+### 🧠 BFS Web Crawler Algorithm Project
+A BFS-based web crawler implementation demonstrating graph traversal and crawling concepts.
+
+**Tech Stack:** Java, Algorithms
+
+🔗 Repo: https://github.com/mahabubhasanmahin/Algorithm-Project/tree/main/WebCrawler_Using_BFS-20241119T062038Z-001/WebCrawler_Using_BFS
 
 ---
 
