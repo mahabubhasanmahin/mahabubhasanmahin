@@ -6,10 +6,16 @@
 </p>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/md.mahin.2002/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-mahabub-hasan-mahin-54908229a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahabubhassan678@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://mahabubhasanmahin.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahabub-hasan-mahin-54908229a)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.mahin.2002)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahabubhassan678@gmail.com)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 About Me
 
@@ -19,30 +25,6 @@
 🤖 Exploring **AI tools, prompt engineering, and AI-assisted development**  
 🌱 Currently learning **Advanced Java, Django & AI-integrated systems**  
 🎯 Interested in **Java Backend, Algorithms, AI Applications & Software Engineering**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Java
-- C++
-- Python
-- JavaScript
-- PHP
-- Assembly
-
-### Web & Frameworks
-- HTML5
-- CSS3
-- Django
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-
 ---
 ## 📌 Featured Projects
 
@@ -112,25 +94,8 @@ A BFS-based web crawler implementation demonstrating graph traversal and crawlin
 ## 📈 Competitive Programming
 
 - 🔹 Codeforces Handle: **MahabubHasanMahin**
-- 🔹 Solved Problems: **160+**
+- 🔹 Solved Problems: **170+**
 - 🔹 Focus Areas: **Algorithms, Data Structures, Problem Solving**
 
 ---
-
-## 🌐 Connect With Me
-
-- Portfolio: https://mahabubhasanmahin.netlify.app/
-- GitHub: https://github.com/mahabubhasanmahin
-- Codeforces: https://codeforces.com/profile/MahabubHasanMahin
-
-📧 Email: mahabubhassan678@gmail.com
-
----
-
-## 🎯 Current Goal
-
-Building practical software solutions, improving problem-solving skills, and becoming a strong Software Engineer focused on AI-integrated systems.
-
----
-
 ⭐ From mahabubhasanmahin
