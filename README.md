@@ -4,9 +4,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahabubhasanmahin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/md.mahin.2002/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-mahabub-hasan-mahin-54908229a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahabubhassan678@gmail.com) 
-
+---
 ## 🚀 About Me
 
 🎓 B.Sc. in Computer Science & Engineering at **Green University of Bangladesh**  
